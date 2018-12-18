@@ -3,6 +3,9 @@
 - **Github Repository**: <https://github.com/shopwarrior>
 
 ## About Odessite Backend Grid
+- Shopware 5.2 Plugin System
+- Create Menu Item
+- Create Backend Controller
 
 Shopware 5.2 plugin system, this example show how to create backend grid + open Ored/Customer detail window from grid.
 
